@@ -33,4 +33,3 @@ while each afternoon will be reserved for exercises and mini-projects.
 * [python docs](https://docs.python.org/3/library/index.html)
 * [w3schools python examples](https://www.w3schools.com/python/default.asp)
 * [conda](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html)
-* new item
