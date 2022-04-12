@@ -1,4 +1,4 @@
-# Day 1
+# Day 2
 The main goal of the day is to familiarize with numpy, scipy and matplotlib.
 
 ## Create a conda environment for today
