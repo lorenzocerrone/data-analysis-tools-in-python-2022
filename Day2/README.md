@@ -10,5 +10,5 @@ conda create -n day2 -c conda-forge python=3.10 jupyter jupyterlab numpy scipy m
 ## Start the notebook
 With your `day2` environment activated type
 ```bash
-jupyter-notebook
+jupyter-lab
 ```
