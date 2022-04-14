@@ -11,4 +11,5 @@ With your `day4` environment activated type
 ```bash
 jupyter-lab
 ```
+
 Test
